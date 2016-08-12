@@ -1,2 +1,2 @@
-# lionwiki
-All versions of LionWiki for iSC Inc..
+# LionWiki
+> All versions of **LionWiki** for *iSC Inc.*.
