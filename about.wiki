@@ -1,0 +1,21 @@
+= About LionWiki =
+
+'''LionWiki''' is a minimalist [[Wiki engine]] programmed in PHP. It is extensible, templatable, file based (it doesn't need database like MySQL) and requires just one file to properly function. It is suitable for small sites, personal notebooks or journals. LionWiki is [[fork]] from french-only WiKiss.
+
+== Features ==
+Feature set is purposely limited to maintain the biggest advantages over other Wiki engines - small size and simplicity to install and use.
+
+LionWiki provides essential Wiki functionality like Wiki syntax, revision history, last changes, renaming pages, password protection (both read and write) and other functions. 
+
+Further functionality is provided by plugins, e.g. powerful table syntax, RSS feed with page changes or spam filtering Captcha. 
+
+== License ==
+LionWiki can be distributed under terms of GPL v2.
+
+== External links ==
+*http://lionwiki.0o.cz/ - LionWiki homepage
+*http://wikiindex.org/LionWiki - WikiIndex
+
+<!-- CATEGORIES -->
+[[Category:Wiki Engine]]
+[[Category:Fork]]
